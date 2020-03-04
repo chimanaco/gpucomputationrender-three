@@ -26,10 +26,10 @@ export declare class GPUComputationRenderer {
         };
     };
     constructor(sizeX: number, sizeY: number, renderer: WebGLRenderer);
-    private createShaderMaterial(computeFragmentShader, uniforms?);
-    private addResolutionDefine(materialShader);
-    private getPassThroughVertexShader();
-    private getPassThroughFragmentShader();
+    private createShaderMaterial;
+    private addResolutionDefine;
+    private getPassThroughVertexShader;
+    private getPassThroughFragmentShader;
     addVariable(variableName: string, computeFragmentShader: string, initialValueTexture: Texture): {
         name: string;
         initialValueTexture: Texture;

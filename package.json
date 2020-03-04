@@ -26,5 +26,10 @@
     },
     "devDependencies": {
         "@types/three": "^0.93.20"
+    },
+    "dependencies": {
+        "@types/node": "^13.7.7",
+        "tsc": "^1.20150623.0",
+        "typescript": "^3.8.3"
     }
 }

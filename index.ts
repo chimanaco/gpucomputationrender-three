@@ -129,7 +129,7 @@ export class GPUComputationRendererVariable {
     public material: ShaderMaterial;
 }
 
-export class GPUComputationRenderer {
+export default class GPUComputationRenderer {
     public scene: Scene;
     public currentTextureIndex: number;
     public variables: GPUComputationRendererVariable[];

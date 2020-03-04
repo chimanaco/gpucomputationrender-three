@@ -26,6 +26,12 @@ Edvinas pranka
 
 https://www.kodmina.lt
 
+**I just updated some lines based on the updated code**
+
+Yasushi Harada
+
+https://threejs.org/examples/jsm/misc/GPUComputationRenderer.js
+
 ## Original module author yomboprime https://github.com/yomboprime
 
 GPUComputationRenderer, based on SimulationRenderer by zz85
